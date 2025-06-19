@@ -1,4 +1,4 @@
-package controllers;
+package Materia.controllers;
 
 public class ArbolBinario {
 
